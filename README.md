@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Irrelevant 🤪
 - ⚡ Fun fact: ...
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://www.tegdainty.com/wp-content/uploads/2023/10/IronMaiden_2400x900_tegd-1-1600x600.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://www.sideshow.com/storage/product-images/300845/iron-maiden-the-trooper-eddie_iron-maiden_gallery_646bb97748d97.jpg">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
